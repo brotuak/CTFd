@@ -88,3 +88,17 @@ OAUTH_CLIENT_SECRET = None
 - Logo by [Laura Barbera](http://www.laurabb.com/)
 - Theme by [Christopher Thompson](https://github.com/breadchris)
 - Notification Sound by [Terrence Martin](https://soundcloud.com/tj-martin-composer)
+
+ # SYNAPSYS #
+
+ L'objectif de ce projet est de mettre en place un Capture the flag orienté DevOps 
+
+ ## Script création de VM lxc ##
+
+ le script ctf.sh se trouve a la racine du projet 
+
+ Nous avons automatisé son exécution à la création d'un nouvel utilisateur CTFd 
+
+
+
+ 
